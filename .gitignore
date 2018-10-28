@@ -1,4 +1,16 @@
 
-.idea
+/.idea
 /build
 /node_modules
+
+nlframe-vue.iml
+
+.idea/inspectionProfiles/Project_Default.xml
+
+.idea/jsLibraryMappings.xml
+
+.idea/misc.xml
+
+.idea/modules.xml
+
+.idea/workspace.xml
